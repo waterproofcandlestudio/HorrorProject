@@ -1,0 +1,912 @@
+2022-4-21
+Rendering UV GBuffer for Escenario 1 - prueba Iluminacion_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - prueba Iluminacion_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - prueba Iluminacion_LMA6 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - prueba Iluminacion_LMA7 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - prueba Iluminacion_LMA8 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - prueba Iluminacion_LMA9 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - prueba Iluminacion_LMA5 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - prueba Iluminacion_LMA5.lz4" 2 0 6 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - prueba Iluminacion_LM0.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - prueba Iluminacion_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - prueba Iluminacion_LMA8.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - prueba Iluminacion_LMA7.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - prueba Iluminacion_LMA6.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - prueba Iluminacion_LMA9.lz4" 2 0 5 0
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA5" 4 0 6 comp_6.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LM0" 4 0 0 comp_0.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA1" 4 0 1 comp_1.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA8" 4 0 4 comp_4.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA7" 4 0 3 comp_3.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA6" 4 0 2 comp_2.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA9" 4 0 5 comp_5.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA5_diffuse" 4 16 6 "gi_Escenario 1 - prueba Iluminacion_LMA50.bin" "Escenario 1 - prueba Iluminacion_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LM0_diffuse" 4 16 0 "gi_Escenario 1 - prueba Iluminacion_LM00.bin" "Escenario 1 - prueba Iluminacion_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA1_diffuse" 4 16 1 "gi_Escenario 1 - prueba Iluminacion_LMA10.bin" "Escenario 1 - prueba Iluminacion_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA8_diffuse" 4 16 4 "gi_Escenario 1 - prueba Iluminacion_LMA80.bin" "Escenario 1 - prueba Iluminacion_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA7_diffuse" 4 16 3 "gi_Escenario 1 - prueba Iluminacion_LMA70.bin" "Escenario 1 - prueba Iluminacion_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA6_diffuse" 4 16 2 "gi_Escenario 1 - prueba Iluminacion_LMA60.bin" "Escenario 1 - prueba Iluminacion_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA9_diffuse" 4 16 5 "gi_Escenario 1 - prueba Iluminacion_LMA90.bin" "Escenario 1 - prueba Iluminacion_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA5_diffuse" 4 16 6 "gi_Escenario 1 - prueba Iluminacion_LMA51.bin" "Escenario 1 - prueba Iluminacion_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LM0_diffuse" 4 16 0 "gi_Escenario 1 - prueba Iluminacion_LM01.bin" "Escenario 1 - prueba Iluminacion_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA1_diffuse" 4 16 1 "gi_Escenario 1 - prueba Iluminacion_LMA11.bin" "Escenario 1 - prueba Iluminacion_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA8_diffuse" 4 16 4 "gi_Escenario 1 - prueba Iluminacion_LMA81.bin" "Escenario 1 - prueba Iluminacion_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA7_diffuse" 4 16 3 "gi_Escenario 1 - prueba Iluminacion_LMA71.bin" "Escenario 1 - prueba Iluminacion_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA6_diffuse" 4 16 2 "gi_Escenario 1 - prueba Iluminacion_LMA61.bin" "Escenario 1 - prueba Iluminacion_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA9_diffuse" 4 16 5 "gi_Escenario 1 - prueba Iluminacion_LMA91.bin" "Escenario 1 - prueba Iluminacion_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA5_diffuse" 4 16 6 "gi_Escenario 1 - prueba Iluminacion_LMA52.bin" "Escenario 1 - prueba Iluminacion_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LM0_diffuse" 4 16 0 "gi_Escenario 1 - prueba Iluminacion_LM02.bin" "Escenario 1 - prueba Iluminacion_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA1_diffuse" 4 16 1 "gi_Escenario 1 - prueba Iluminacion_LMA12.bin" "Escenario 1 - prueba Iluminacion_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA8_diffuse" 4 16 4 "gi_Escenario 1 - prueba Iluminacion_LMA82.bin" "Escenario 1 - prueba Iluminacion_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA7_diffuse" 4 16 3 "gi_Escenario 1 - prueba Iluminacion_LMA72.bin" "Escenario 1 - prueba Iluminacion_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA6_diffuse" 4 16 2 "gi_Escenario 1 - prueba Iluminacion_LMA62.bin" "Escenario 1 - prueba Iluminacion_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA9_diffuse" 4 16 5 "gi_Escenario 1 - prueba Iluminacion_LMA92.bin" "Escenario 1 - prueba Iluminacion_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA5_diffuse" 4 16 6 "gi_Escenario 1 - prueba Iluminacion_LMA53.bin" "Escenario 1 - prueba Iluminacion_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LM0_diffuse" 4 16 0 "gi_Escenario 1 - prueba Iluminacion_LM03.bin" "Escenario 1 - prueba Iluminacion_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA1_diffuse" 4 16 1 "gi_Escenario 1 - prueba Iluminacion_LMA13.bin" "Escenario 1 - prueba Iluminacion_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA8_diffuse" 4 16 4 "gi_Escenario 1 - prueba Iluminacion_LMA83.bin" "Escenario 1 - prueba Iluminacion_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA7_diffuse" 4 16 3 "gi_Escenario 1 - prueba Iluminacion_LMA73.bin" "Escenario 1 - prueba Iluminacion_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA6_diffuse" 4 16 2 "gi_Escenario 1 - prueba Iluminacion_LMA63.bin" "Escenario 1 - prueba Iluminacion_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA9_diffuse" 4 16 5 "gi_Escenario 1 - prueba Iluminacion_LMA93.bin" "Escenario 1 - prueba Iluminacion_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA5_final" 4 16 6 "gi_Escenario 1 - prueba Iluminacion_LMA54.bin" "Escenario 1 - prueba Iluminacion_LMA5_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LM0_final" 4 16 0 "gi_Escenario 1 - prueba Iluminacion_LM04.bin" "Escenario 1 - prueba Iluminacion_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA1_final" 4 16 1 "gi_Escenario 1 - prueba Iluminacion_LMA14.bin" "Escenario 1 - prueba Iluminacion_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA8_final" 4 16 4 "gi_Escenario 1 - prueba Iluminacion_LMA84.bin" "Escenario 1 - prueba Iluminacion_LMA8_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA7_final" 4 16 3 "gi_Escenario 1 - prueba Iluminacion_LMA74.bin" "Escenario 1 - prueba Iluminacion_LMA7_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA6_final" 4 16 2 "gi_Escenario 1 - prueba Iluminacion_LMA64.bin" "Escenario 1 - prueba Iluminacion_LMA6_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA9_final" 4 16 5 "gi_Escenario 1 - prueba Iluminacion_LMA94.bin" "Escenario 1 - prueba Iluminacion_LMA9_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA5_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA5_final_HDR.lz4" 512 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "6" "Escenario 1 - prueba Iluminacion_LMA5_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LM0_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LM0_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "0" "Escenario 1 - prueba Iluminacion_LM0_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA1_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA1_final_HDR.lz4" 512 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "1" "Escenario 1 - prueba Iluminacion_LMA1_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA8_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA8_final_HDR.lz4" 128 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "4" "Escenario 1 - prueba Iluminacion_LMA8_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA7_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA7_final_HDR.lz4" 128 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "3" "Escenario 1 - prueba Iluminacion_LMA7_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA6_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA6_final_HDR.lz4" 128 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "2" "Escenario 1 - prueba Iluminacion_LMA6_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA9_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA9_final_HDR.lz4" 64 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "5" "Escenario 1 - prueba Iluminacion_LMA9_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA5_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - prueba Iluminacion_LMA5_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LM0_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - prueba Iluminacion_LM0_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA1_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - prueba Iluminacion_LMA1_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA8_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - prueba Iluminacion_LMA8_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA7_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - prueba Iluminacion_LMA7_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA6_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - prueba Iluminacion_LMA6_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA9_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - prueba Iluminacion_LMA9_final.hdr"
+Symbol file LoadedFromMemory doesn't match image E:\Proyectos Unity\HORROR PROJECT PROJECTS\Pete 2020 V1.4\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Symbol file LoadedFromMemory doesn't match image E:\Proyectos Unity\HORROR PROJECT PROJECTS\Pete 2020 V1.4\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for Escenario 1 - prueba Iluminacion_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - prueba Iluminacion_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - prueba Iluminacion_LMA6 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - prueba Iluminacion_LMA7 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - prueba Iluminacion_LMA8 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - prueba Iluminacion_LMA9 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - prueba Iluminacion_LMA5 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - prueba Iluminacion_LMA5.lz4" 2 0 6 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - prueba Iluminacion_LM0.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - prueba Iluminacion_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - prueba Iluminacion_LMA8.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - prueba Iluminacion_LMA7.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - prueba Iluminacion_LMA6.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - prueba Iluminacion_LMA9.lz4" 2 0 5 0
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA5" 4 0 6 comp_6.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LM0" 4 0 0 comp_0.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA1" 4 0 1 comp_1.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA8" 4 0 4 comp_4.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA7" 4 0 3 comp_3.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA6" 4 0 2 comp_2.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA9" 4 0 5 comp_5.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA5_diffuse" 4 16 6 "gi_Escenario 1 - prueba Iluminacion_LMA50.bin" "Escenario 1 - prueba Iluminacion_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LM0_diffuse" 4 16 0 "gi_Escenario 1 - prueba Iluminacion_LM00.bin" "Escenario 1 - prueba Iluminacion_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA1_diffuse" 4 16 1 "gi_Escenario 1 - prueba Iluminacion_LMA10.bin" "Escenario 1 - prueba Iluminacion_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA8_diffuse" 4 16 4 "gi_Escenario 1 - prueba Iluminacion_LMA80.bin" "Escenario 1 - prueba Iluminacion_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA7_diffuse" 4 16 3 "gi_Escenario 1 - prueba Iluminacion_LMA70.bin" "Escenario 1 - prueba Iluminacion_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA6_diffuse" 4 16 2 "gi_Escenario 1 - prueba Iluminacion_LMA60.bin" "Escenario 1 - prueba Iluminacion_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA9_diffuse" 4 16 5 "gi_Escenario 1 - prueba Iluminacion_LMA90.bin" "Escenario 1 - prueba Iluminacion_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA5_diffuse" 4 16 6 "gi_Escenario 1 - prueba Iluminacion_LMA51.bin" "Escenario 1 - prueba Iluminacion_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LM0_diffuse" 4 16 0 "gi_Escenario 1 - prueba Iluminacion_LM01.bin" "Escenario 1 - prueba Iluminacion_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA1_diffuse" 4 16 1 "gi_Escenario 1 - prueba Iluminacion_LMA11.bin" "Escenario 1 - prueba Iluminacion_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA8_diffuse" 4 16 4 "gi_Escenario 1 - prueba Iluminacion_LMA81.bin" "Escenario 1 - prueba Iluminacion_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA7_diffuse" 4 16 3 "gi_Escenario 1 - prueba Iluminacion_LMA71.bin" "Escenario 1 - prueba Iluminacion_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA6_diffuse" 4 16 2 "gi_Escenario 1 - prueba Iluminacion_LMA61.bin" "Escenario 1 - prueba Iluminacion_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA9_diffuse" 4 16 5 "gi_Escenario 1 - prueba Iluminacion_LMA91.bin" "Escenario 1 - prueba Iluminacion_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA5_diffuse" 4 16 6 "gi_Escenario 1 - prueba Iluminacion_LMA52.bin" "Escenario 1 - prueba Iluminacion_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LM0_diffuse" 4 16 0 "gi_Escenario 1 - prueba Iluminacion_LM02.bin" "Escenario 1 - prueba Iluminacion_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA1_diffuse" 4 16 1 "gi_Escenario 1 - prueba Iluminacion_LMA12.bin" "Escenario 1 - prueba Iluminacion_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA8_diffuse" 4 16 4 "gi_Escenario 1 - prueba Iluminacion_LMA82.bin" "Escenario 1 - prueba Iluminacion_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA7_diffuse" 4 16 3 "gi_Escenario 1 - prueba Iluminacion_LMA72.bin" "Escenario 1 - prueba Iluminacion_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA6_diffuse" 4 16 2 "gi_Escenario 1 - prueba Iluminacion_LMA62.bin" "Escenario 1 - prueba Iluminacion_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA9_diffuse" 4 16 5 "gi_Escenario 1 - prueba Iluminacion_LMA92.bin" "Escenario 1 - prueba Iluminacion_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA5_diffuse" 4 16 6 "gi_Escenario 1 - prueba Iluminacion_LMA53.bin" "Escenario 1 - prueba Iluminacion_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LM0_diffuse" 4 16 0 "gi_Escenario 1 - prueba Iluminacion_LM03.bin" "Escenario 1 - prueba Iluminacion_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA1_diffuse" 4 16 1 "gi_Escenario 1 - prueba Iluminacion_LMA13.bin" "Escenario 1 - prueba Iluminacion_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA8_diffuse" 4 16 4 "gi_Escenario 1 - prueba Iluminacion_LMA83.bin" "Escenario 1 - prueba Iluminacion_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA7_diffuse" 4 16 3 "gi_Escenario 1 - prueba Iluminacion_LMA73.bin" "Escenario 1 - prueba Iluminacion_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA6_diffuse" 4 16 2 "gi_Escenario 1 - prueba Iluminacion_LMA63.bin" "Escenario 1 - prueba Iluminacion_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA9_diffuse" 4 16 5 "gi_Escenario 1 - prueba Iluminacion_LMA93.bin" "Escenario 1 - prueba Iluminacion_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA5_final" 4 16 6 "gi_Escenario 1 - prueba Iluminacion_LMA54.bin" "Escenario 1 - prueba Iluminacion_LMA5_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LM0_final" 4 16 0 "gi_Escenario 1 - prueba Iluminacion_LM04.bin" "Escenario 1 - prueba Iluminacion_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA1_final" 4 16 1 "gi_Escenario 1 - prueba Iluminacion_LMA14.bin" "Escenario 1 - prueba Iluminacion_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA8_final" 4 16 4 "gi_Escenario 1 - prueba Iluminacion_LMA84.bin" "Escenario 1 - prueba Iluminacion_LMA8_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA7_final" 4 16 3 "gi_Escenario 1 - prueba Iluminacion_LMA74.bin" "Escenario 1 - prueba Iluminacion_LMA7_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA6_final" 4 16 2 "gi_Escenario 1 - prueba Iluminacion_LMA64.bin" "Escenario 1 - prueba Iluminacion_LMA6_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - prueba Iluminacion_LMA9_final" 4 16 5 "gi_Escenario 1 - prueba Iluminacion_LMA94.bin" "Escenario 1 - prueba Iluminacion_LMA9_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA5_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA5_final_HDR.lz4" 512 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "6" "Escenario 1 - prueba Iluminacion_LMA5_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LM0_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LM0_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "0" "Escenario 1 - prueba Iluminacion_LM0_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA1_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA1_final_HDR.lz4" 512 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "1" "Escenario 1 - prueba Iluminacion_LMA1_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA8_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA8_final_HDR.lz4" 128 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "4" "Escenario 1 - prueba Iluminacion_LMA8_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA7_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA7_final_HDR.lz4" 128 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "3" "Escenario 1 - prueba Iluminacion_LMA7_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA6_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA6_final_HDR.lz4" 128 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "2" "Escenario 1 - prueba Iluminacion_LMA6_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA9_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA9_final_HDR.lz4" 64 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "5" "Escenario 1 - prueba Iluminacion_LMA9_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA5_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - prueba Iluminacion_LMA5_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LM0_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - prueba Iluminacion_LM0_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA1_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - prueba Iluminacion_LMA1_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA8_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - prueba Iluminacion_LMA8_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA7_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - prueba Iluminacion_LMA7_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA6_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - prueba Iluminacion_LMA6_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - prueba Iluminacion_LMA9_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - prueba Iluminacion_LMA9_final.hdr"
+Symbol file LoadedFromMemory doesn't match image E:\Proyectos Unity\HORROR PROJECT PROJECTS\Pete 2020 V1.4\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Symbol file LoadedFromMemory doesn't match image E:\Proyectos Unity\HORROR PROJECT PROJECTS\Pete 2020 V1.4\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Symbol file LoadedFromMemory doesn't match image E:\Proyectos Unity\HORROR PROJECT PROJECTS\Pete 2020 V1.4\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Symbol file LoadedFromMemory doesn't match image E:\Proyectos Unity\HORROR PROJECT PROJECTS\Pete 2020 V1.4\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+ 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+2022-4-21
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LMA6 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LMA7 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LMA8 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LMA9 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LMA5 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LMA5.lz4" 2 0 6 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LM0.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LMA8.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LMA7.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LMA6.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LMA9.lz4" 2 0 5 0
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA5" 4 0 6 comp_6.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LM0" 4 0 0 comp_0.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA1" 4 0 1 comp_1.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA8" 4 0 4 comp_4.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA7" 4 0 3 comp_3.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA6" 4 0 2 comp_2.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA9" 4 0 5 comp_5.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse" 4 16 6 "gi_Escenario 1 - pruebaIluminacion2_LMA50.bin" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LM0_diffuse" 4 16 0 "gi_Escenario 1 - pruebaIluminacion2_LM00.bin" "Escenario 1 - pruebaIluminacion2_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse" 4 16 1 "gi_Escenario 1 - pruebaIluminacion2_LMA10.bin" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA8_diffuse" 4 16 4 "gi_Escenario 1 - pruebaIluminacion2_LMA80.bin" "Escenario 1 - pruebaIluminacion2_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse" 4 16 3 "gi_Escenario 1 - pruebaIluminacion2_LMA70.bin" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse" 4 16 2 "gi_Escenario 1 - pruebaIluminacion2_LMA60.bin" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA9_diffuse" 4 16 5 "gi_Escenario 1 - pruebaIluminacion2_LMA90.bin" "Escenario 1 - pruebaIluminacion2_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse" 4 16 6 "gi_Escenario 1 - pruebaIluminacion2_LMA51.bin" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LM0_diffuse" 4 16 0 "gi_Escenario 1 - pruebaIluminacion2_LM01.bin" "Escenario 1 - pruebaIluminacion2_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse" 4 16 1 "gi_Escenario 1 - pruebaIluminacion2_LMA11.bin" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA8_diffuse" 4 16 4 "gi_Escenario 1 - pruebaIluminacion2_LMA81.bin" "Escenario 1 - pruebaIluminacion2_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse" 4 16 3 "gi_Escenario 1 - pruebaIluminacion2_LMA71.bin" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse" 4 16 2 "gi_Escenario 1 - pruebaIluminacion2_LMA61.bin" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA9_diffuse" 4 16 5 "gi_Escenario 1 - pruebaIluminacion2_LMA91.bin" "Escenario 1 - pruebaIluminacion2_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse" 4 16 6 "gi_Escenario 1 - pruebaIluminacion2_LMA52.bin" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LM0_diffuse" 4 16 0 "gi_Escenario 1 - pruebaIluminacion2_LM02.bin" "Escenario 1 - pruebaIluminacion2_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse" 4 16 1 "gi_Escenario 1 - pruebaIluminacion2_LMA12.bin" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA8_diffuse" 4 16 4 "gi_Escenario 1 - pruebaIluminacion2_LMA82.bin" "Escenario 1 - pruebaIluminacion2_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse" 4 16 3 "gi_Escenario 1 - pruebaIluminacion2_LMA72.bin" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse" 4 16 2 "gi_Escenario 1 - pruebaIluminacion2_LMA62.bin" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA9_diffuse" 4 16 5 "gi_Escenario 1 - pruebaIluminacion2_LMA92.bin" "Escenario 1 - pruebaIluminacion2_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse" 4 16 6 "gi_Escenario 1 - pruebaIluminacion2_LMA53.bin" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LM0_diffuse" 4 16 0 "gi_Escenario 1 - pruebaIluminacion2_LM03.bin" "Escenario 1 - pruebaIluminacion2_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse" 4 16 1 "gi_Escenario 1 - pruebaIluminacion2_LMA13.bin" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA8_diffuse" 4 16 4 "gi_Escenario 1 - pruebaIluminacion2_LMA83.bin" "Escenario 1 - pruebaIluminacion2_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse" 4 16 3 "gi_Escenario 1 - pruebaIluminacion2_LMA73.bin" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse" 4 16 2 "gi_Escenario 1 - pruebaIluminacion2_LMA63.bin" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA9_diffuse" 4 16 5 "gi_Escenario 1 - pruebaIluminacion2_LMA93.bin" "Escenario 1 - pruebaIluminacion2_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA5_final" 4 16 6 "gi_Escenario 1 - pruebaIluminacion2_LMA54.bin" "Escenario 1 - pruebaIluminacion2_LMA5_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LM0_final" 4 16 0 "gi_Escenario 1 - pruebaIluminacion2_LM04.bin" "Escenario 1 - pruebaIluminacion2_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA1_final" 4 16 1 "gi_Escenario 1 - pruebaIluminacion2_LMA14.bin" "Escenario 1 - pruebaIluminacion2_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA8_final" 4 16 4 "gi_Escenario 1 - pruebaIluminacion2_LMA84.bin" "Escenario 1 - pruebaIluminacion2_LMA8_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA7_final" 4 16 3 "gi_Escenario 1 - pruebaIluminacion2_LMA74.bin" "Escenario 1 - pruebaIluminacion2_LMA7_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA6_final" 4 16 2 "gi_Escenario 1 - pruebaIluminacion2_LMA64.bin" "Escenario 1 - pruebaIluminacion2_LMA6_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA9_final" 4 16 5 "gi_Escenario 1 - pruebaIluminacion2_LMA94.bin" "Escenario 1 - pruebaIluminacion2_LMA9_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA5_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA5_final_HDR.lz4" 512 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "6" "Escenario 1 - pruebaIluminacion2_LMA5_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LM0_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LM0_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "0" "Escenario 1 - pruebaIluminacion2_LM0_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA1_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA1_final_HDR.lz4" 512 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "1" "Escenario 1 - pruebaIluminacion2_LMA1_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA8_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA8_final_HDR.lz4" 128 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "4" "Escenario 1 - pruebaIluminacion2_LMA8_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA7_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA7_final_HDR.lz4" 128 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "3" "Escenario 1 - pruebaIluminacion2_LMA7_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA6_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA6_final_HDR.lz4" 128 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "2" "Escenario 1 - pruebaIluminacion2_LMA6_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA9_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA9_final_HDR.lz4" 64 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "5" "Escenario 1 - pruebaIluminacion2_LMA9_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA5_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LMA5_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LM0_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LM0_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA1_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LMA1_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA8_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LMA8_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA7_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LMA7_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA6_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LMA6_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA9_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LMA9_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LMA6 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LMA7 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LMA8 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LMA9 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LMA5 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LMA5.lz4" 2 0 6 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LM0.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LMA8.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LMA7.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LMA6.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LMA9.lz4" 2 0 5 0
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA5" 4 0 6 comp_6.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LM0" 4 0 0 comp_0.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA1" 4 0 1 comp_1.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA8" 4 0 4 comp_4.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA7" 4 0 3 comp_3.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA6" 4 0 2 comp_2.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA9" 4 0 5 comp_5.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse" 4 16 6 "gi_Escenario 1 - pruebaIluminacion2_LMA50.bin" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LM0_diffuse" 4 16 0 "gi_Escenario 1 - pruebaIluminacion2_LM00.bin" "Escenario 1 - pruebaIluminacion2_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse" 4 16 1 "gi_Escenario 1 - pruebaIluminacion2_LMA10.bin" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA8_diffuse" 4 16 4 "gi_Escenario 1 - pruebaIluminacion2_LMA80.bin" "Escenario 1 - pruebaIluminacion2_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse" 4 16 3 "gi_Escenario 1 - pruebaIluminacion2_LMA70.bin" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse" 4 16 2 "gi_Escenario 1 - pruebaIluminacion2_LMA60.bin" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA9_diffuse" 4 16 5 "gi_Escenario 1 - pruebaIluminacion2_LMA90.bin" "Escenario 1 - pruebaIluminacion2_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse" 4 16 6 "gi_Escenario 1 - pruebaIluminacion2_LMA51.bin" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LM0_diffuse" 4 16 0 "gi_Escenario 1 - pruebaIluminacion2_LM01.bin" "Escenario 1 - pruebaIluminacion2_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse" 4 16 1 "gi_Escenario 1 - pruebaIluminacion2_LMA11.bin" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA8_diffuse" 4 16 4 "gi_Escenario 1 - pruebaIluminacion2_LMA81.bin" "Escenario 1 - pruebaIluminacion2_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse" 4 16 3 "gi_Escenario 1 - pruebaIluminacion2_LMA71.bin" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse" 4 16 2 "gi_Escenario 1 - pruebaIluminacion2_LMA61.bin" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA9_diffuse" 4 16 5 "gi_Escenario 1 - pruebaIluminacion2_LMA91.bin" "Escenario 1 - pruebaIluminacion2_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse" 4 16 6 "gi_Escenario 1 - pruebaIluminacion2_LMA52.bin" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LM0_diffuse" 4 16 0 "gi_Escenario 1 - pruebaIluminacion2_LM02.bin" "Escenario 1 - pruebaIluminacion2_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse" 4 16 1 "gi_Escenario 1 - pruebaIluminacion2_LMA12.bin" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA8_diffuse" 4 16 4 "gi_Escenario 1 - pruebaIluminacion2_LMA82.bin" "Escenario 1 - pruebaIluminacion2_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse" 4 16 3 "gi_Escenario 1 - pruebaIluminacion2_LMA72.bin" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse" 4 16 2 "gi_Escenario 1 - pruebaIluminacion2_LMA62.bin" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA9_diffuse" 4 16 5 "gi_Escenario 1 - pruebaIluminacion2_LMA92.bin" "Escenario 1 - pruebaIluminacion2_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse" 4 16 6 "gi_Escenario 1 - pruebaIluminacion2_LMA53.bin" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LM0_diffuse" 4 16 0 "gi_Escenario 1 - pruebaIluminacion2_LM03.bin" "Escenario 1 - pruebaIluminacion2_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse" 4 16 1 "gi_Escenario 1 - pruebaIluminacion2_LMA13.bin" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA8_diffuse" 4 16 4 "gi_Escenario 1 - pruebaIluminacion2_LMA83.bin" "Escenario 1 - pruebaIluminacion2_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse" 4 16 3 "gi_Escenario 1 - pruebaIluminacion2_LMA73.bin" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse" 4 16 2 "gi_Escenario 1 - pruebaIluminacion2_LMA63.bin" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA9_diffuse" 4 16 5 "gi_Escenario 1 - pruebaIluminacion2_LMA93.bin" "Escenario 1 - pruebaIluminacion2_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA5_final" 4 16 6 "gi_Escenario 1 - pruebaIluminacion2_LMA54.bin" "Escenario 1 - pruebaIluminacion2_LMA5_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LM0_final" 4 16 0 "gi_Escenario 1 - pruebaIluminacion2_LM04.bin" "Escenario 1 - pruebaIluminacion2_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA1_final" 4 16 1 "gi_Escenario 1 - pruebaIluminacion2_LMA14.bin" "Escenario 1 - pruebaIluminacion2_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA8_final" 4 16 4 "gi_Escenario 1 - pruebaIluminacion2_LMA84.bin" "Escenario 1 - pruebaIluminacion2_LMA8_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA7_final" 4 16 3 "gi_Escenario 1 - pruebaIluminacion2_LMA74.bin" "Escenario 1 - pruebaIluminacion2_LMA7_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA6_final" 4 16 2 "gi_Escenario 1 - pruebaIluminacion2_LMA64.bin" "Escenario 1 - pruebaIluminacion2_LMA6_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA9_final" 4 16 5 "gi_Escenario 1 - pruebaIluminacion2_LMA94.bin" "Escenario 1 - pruebaIluminacion2_LMA9_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA5_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA5_final_HDR.lz4" 512 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "6" "Escenario 1 - pruebaIluminacion2_LMA5_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LM0_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LM0_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "0" "Escenario 1 - pruebaIluminacion2_LM0_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA1_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA1_final_HDR.lz4" 512 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "1" "Escenario 1 - pruebaIluminacion2_LMA1_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA8_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA8_final_HDR.lz4" 128 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "4" "Escenario 1 - pruebaIluminacion2_LMA8_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA7_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA7_final_HDR.lz4" 128 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "3" "Escenario 1 - pruebaIluminacion2_LMA7_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA6_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA6_final_HDR.lz4" 128 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "2" "Escenario 1 - pruebaIluminacion2_LMA6_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA9_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA9_final_HDR.lz4" 64 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "5" "Escenario 1 - pruebaIluminacion2_LMA9_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA5_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LMA5_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LM0_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LM0_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA1_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LMA1_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA8_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LMA8_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA7_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LMA7_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA6_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LMA6_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA9_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LMA9_final.hdr"
+Symbol file LoadedFromMemory doesn't match image E:\Proyectos Unity\HORROR PROJECT PROJECTS\Pete 2020 V1.4\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Symbol file LoadedFromMemory doesn't match image E:\Proyectos Unity\HORROR PROJECT PROJECTS\Pete 2020 V1.4\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Symbol file LoadedFromMemory doesn't match image E:\Proyectos Unity\HORROR PROJECT PROJECTS\Pete 2020 V1.4\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LMA6 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LMA7 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LMA8 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LMA9 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LMA5 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LMA5.lz4" 2 0 6 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LM0.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LMA8.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LMA7.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LMA6.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LMA9.lz4" 2 0 5 0
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA5" 4 0 6 comp_6.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LM0" 4 0 0 comp_0.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA1" 4 0 1 comp_1.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA8" 4 0 4 comp_4.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA7" 4 0 3 comp_3.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA6" 4 0 2 comp_2.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA9" 4 0 5 comp_5.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse" 4 16 6 "gi_Escenario 1 - pruebaIluminacion2_LMA50.bin" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LM0_diffuse" 4 16 0 "gi_Escenario 1 - pruebaIluminacion2_LM00.bin" "Escenario 1 - pruebaIluminacion2_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse" 4 16 1 "gi_Escenario 1 - pruebaIluminacion2_LMA10.bin" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA8_diffuse" 4 16 4 "gi_Escenario 1 - pruebaIluminacion2_LMA80.bin" "Escenario 1 - pruebaIluminacion2_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse" 4 16 3 "gi_Escenario 1 - pruebaIluminacion2_LMA70.bin" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse" 4 16 2 "gi_Escenario 1 - pruebaIluminacion2_LMA60.bin" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA9_diffuse" 4 16 5 "gi_Escenario 1 - pruebaIluminacion2_LMA90.bin" "Escenario 1 - pruebaIluminacion2_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse" 4 16 6 "gi_Escenario 1 - pruebaIluminacion2_LMA51.bin" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LM0_diffuse" 4 16 0 "gi_Escenario 1 - pruebaIluminacion2_LM01.bin" "Escenario 1 - pruebaIluminacion2_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse" 4 16 1 "gi_Escenario 1 - pruebaIluminacion2_LMA11.bin" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA8_diffuse" 4 16 4 "gi_Escenario 1 - pruebaIluminacion2_LMA81.bin" "Escenario 1 - pruebaIluminacion2_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse" 4 16 3 "gi_Escenario 1 - pruebaIluminacion2_LMA71.bin" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse" 4 16 2 "gi_Escenario 1 - pruebaIluminacion2_LMA61.bin" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA9_diffuse" 4 16 5 "gi_Escenario 1 - pruebaIluminacion2_LMA91.bin" "Escenario 1 - pruebaIluminacion2_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse" 4 16 6 "gi_Escenario 1 - pruebaIluminacion2_LMA52.bin" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LM0_diffuse" 4 16 0 "gi_Escenario 1 - pruebaIluminacion2_LM02.bin" "Escenario 1 - pruebaIluminacion2_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse" 4 16 1 "gi_Escenario 1 - pruebaIluminacion2_LMA12.bin" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA8_diffuse" 4 16 4 "gi_Escenario 1 - pruebaIluminacion2_LMA82.bin" "Escenario 1 - pruebaIluminacion2_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse" 4 16 3 "gi_Escenario 1 - pruebaIluminacion2_LMA72.bin" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse" 4 16 2 "gi_Escenario 1 - pruebaIluminacion2_LMA62.bin" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA9_diffuse" 4 16 5 "gi_Escenario 1 - pruebaIluminacion2_LMA92.bin" "Escenario 1 - pruebaIluminacion2_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse" 4 16 6 "gi_Escenario 1 - pruebaIluminacion2_LMA53.bin" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LM0_diffuse" 4 16 0 "gi_Escenario 1 - pruebaIluminacion2_LM03.bin" "Escenario 1 - pruebaIluminacion2_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse" 4 16 1 "gi_Escenario 1 - pruebaIluminacion2_LMA13.bin" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA8_diffuse" 4 16 4 "gi_Escenario 1 - pruebaIluminacion2_LMA83.bin" "Escenario 1 - pruebaIluminacion2_LMA8_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse" 4 16 3 "gi_Escenario 1 - pruebaIluminacion2_LMA73.bin" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse" 4 16 2 "gi_Escenario 1 - pruebaIluminacion2_LMA63.bin" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA9_diffuse" 4 16 5 "gi_Escenario 1 - pruebaIluminacion2_LMA93.bin" "Escenario 1 - pruebaIluminacion2_LMA9_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA5_final" 4 16 6 "gi_Escenario 1 - pruebaIluminacion2_LMA54.bin" "Escenario 1 - pruebaIluminacion2_LMA5_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LM0_final" 4 16 0 "gi_Escenario 1 - pruebaIluminacion2_LM04.bin" "Escenario 1 - pruebaIluminacion2_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA1_final" 4 16 1 "gi_Escenario 1 - pruebaIluminacion2_LMA14.bin" "Escenario 1 - pruebaIluminacion2_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA8_final" 4 16 4 "gi_Escenario 1 - pruebaIluminacion2_LMA84.bin" "Escenario 1 - pruebaIluminacion2_LMA8_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA7_final" 4 16 3 "gi_Escenario 1 - pruebaIluminacion2_LMA74.bin" "Escenario 1 - pruebaIluminacion2_LMA7_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA6_final" 4 16 2 "gi_Escenario 1 - pruebaIluminacion2_LMA64.bin" "Escenario 1 - pruebaIluminacion2_LMA6_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA9_final" 4 16 5 "gi_Escenario 1 - pruebaIluminacion2_LMA94.bin" "Escenario 1 - pruebaIluminacion2_LMA9_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA5_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA5_final_HDR.lz4" 512 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "6" "Escenario 1 - pruebaIluminacion2_LMA5_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LM0_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LM0_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "0" "Escenario 1 - pruebaIluminacion2_LM0_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA1_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA1_final_HDR.lz4" 512 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "1" "Escenario 1 - pruebaIluminacion2_LMA1_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA8_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA8_final_HDR.lz4" 128 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "4" "Escenario 1 - pruebaIluminacion2_LMA8_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA7_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA7_final_HDR.lz4" 128 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "3" "Escenario 1 - pruebaIluminacion2_LMA7_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA6_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA6_final_HDR.lz4" 128 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "2" "Escenario 1 - pruebaIluminacion2_LMA6_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA9_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA9_final_HDR.lz4" 64 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "5" "Escenario 1 - pruebaIluminacion2_LMA9_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA5_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LMA5_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LM0_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LM0_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA1_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LMA1_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA8_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LMA8_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA7_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LMA7_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA6_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LMA6_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA9_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LMA9_final.hdr"
+Symbol file LoadedFromMemory doesn't match image E:\Proyectos Unity\HORROR PROJECT PROJECTS\Pete 2020 V1.4\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Symbol file LoadedFromMemory doesn't match image E:\Proyectos Unity\HORROR PROJECT PROJECTS\Pete 2020 V1.4\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Symbol file LoadedFromMemory doesn't match image E:\Proyectos Unity\HORROR PROJECT PROJECTS\Pete 2020 V1.4\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Symbol file LoadedFromMemory doesn't match image E:\Proyectos Unity\HORROR PROJECT PROJECTS\Pete 2020 V1.4\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Symbol file LoadedFromMemory doesn't match image E:\Proyectos Unity\HORROR PROJECT PROJECTS\Pete 2020 V1.4\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Symbol file LoadedFromMemory doesn't match image E:\Proyectos Unity\HORROR PROJECT PROJECTS\Pete 2020 V1.4\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Symbol file LoadedFromMemory doesn't match image E:\Proyectos Unity\HORROR PROJECT PROJECTS\Pete 2020 V1.4\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Symbol file LoadedFromMemory doesn't match image E:\Proyectos Unity\HORROR PROJECT PROJECTS\Pete 2020 V1.4\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Symbol file LoadedFromMemory doesn't match image E:\Proyectos Unity\HORROR PROJECT PROJECTS\Pete 2020 V1.4\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Symbol file LoadedFromMemory doesn't match image E:\Proyectos Unity\HORROR PROJECT PROJECTS\Pete 2020 V1.4\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+2022-4-22
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LMA6 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LMA7 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 - pruebaIluminacion2_LMA5 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LM0.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LMA5.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LMA6.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 - pruebaIluminacion2_LMA7.lz4" 2 0 3 0
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LM0" 4 0 0 comp_0.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA5" 4 0 4 comp_4.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA1" 4 0 1 comp_1.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA6" 4 0 2 comp_2.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA7" 4 0 3 comp_3.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LM0_diffuse" 4 16 0 "gi_Escenario 1 - pruebaIluminacion2_LM00.bin" "Escenario 1 - pruebaIluminacion2_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse" 4 16 4 "gi_Escenario 1 - pruebaIluminacion2_LMA50.bin" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse" 4 16 1 "gi_Escenario 1 - pruebaIluminacion2_LMA10.bin" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse" 4 16 2 "gi_Escenario 1 - pruebaIluminacion2_LMA60.bin" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse" 4 16 3 "gi_Escenario 1 - pruebaIluminacion2_LMA70.bin" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LM0_diffuse" 4 16 0 "gi_Escenario 1 - pruebaIluminacion2_LM01.bin" "Escenario 1 - pruebaIluminacion2_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse" 4 16 4 "gi_Escenario 1 - pruebaIluminacion2_LMA51.bin" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse" 4 16 1 "gi_Escenario 1 - pruebaIluminacion2_LMA11.bin" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse" 4 16 2 "gi_Escenario 1 - pruebaIluminacion2_LMA61.bin" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse" 4 16 3 "gi_Escenario 1 - pruebaIluminacion2_LMA71.bin" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LM0_diffuse" 4 16 0 "gi_Escenario 1 - pruebaIluminacion2_LM02.bin" "Escenario 1 - pruebaIluminacion2_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse" 4 16 4 "gi_Escenario 1 - pruebaIluminacion2_LMA52.bin" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse" 4 16 1 "gi_Escenario 1 - pruebaIluminacion2_LMA12.bin" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse" 4 16 2 "gi_Escenario 1 - pruebaIluminacion2_LMA62.bin" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse" 4 16 3 "gi_Escenario 1 - pruebaIluminacion2_LMA72.bin" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LM0_diffuse" 4 16 0 "gi_Escenario 1 - pruebaIluminacion2_LM03.bin" "Escenario 1 - pruebaIluminacion2_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse" 4 16 4 "gi_Escenario 1 - pruebaIluminacion2_LMA53.bin" "Escenario 1 - pruebaIluminacion2_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse" 4 16 1 "gi_Escenario 1 - pruebaIluminacion2_LMA13.bin" "Escenario 1 - pruebaIluminacion2_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse" 4 16 2 "gi_Escenario 1 - pruebaIluminacion2_LMA63.bin" "Escenario 1 - pruebaIluminacion2_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse" 4 16 3 "gi_Escenario 1 - pruebaIluminacion2_LMA73.bin" "Escenario 1 - pruebaIluminacion2_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LM0_final" 4 16 0 "gi_Escenario 1 - pruebaIluminacion2_LM04.bin" "Escenario 1 - pruebaIluminacion2_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA5_final" 4 16 4 "gi_Escenario 1 - pruebaIluminacion2_LMA54.bin" "Escenario 1 - pruebaIluminacion2_LMA5_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA1_final" 4 16 1 "gi_Escenario 1 - pruebaIluminacion2_LMA14.bin" "Escenario 1 - pruebaIluminacion2_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA6_final" 4 16 2 "gi_Escenario 1 - pruebaIluminacion2_LMA64.bin" "Escenario 1 - pruebaIluminacion2_LMA6_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 - pruebaIluminacion2_LMA7_final" 4 16 3 "gi_Escenario 1 - pruebaIluminacion2_LMA74.bin" "Escenario 1 - pruebaIluminacion2_LMA7_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LM0_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LM0_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "0" "Escenario 1 - pruebaIluminacion2_LM0_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA5_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA5_final_HDR.lz4" 512 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "4" "Escenario 1 - pruebaIluminacion2_LMA5_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA1_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA1_final_HDR.lz4" 512 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "1" "Escenario 1 - pruebaIluminacion2_LMA1_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA6_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA6_final_HDR.lz4" 256 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "2" "Escenario 1 - pruebaIluminacion2_LMA6_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA7_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA7_final_HDR.lz4" 128 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "3" "Escenario 1 - pruebaIluminacion2_LMA7_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LM0_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LM0_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA5_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LMA5_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA1_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LMA1_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA6_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LMA6_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 - pruebaIluminacion2_LMA7_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 - pruebaIluminacion2_LMA7_final.hdr"
+Symbol file LoadedFromMemory doesn't match image E:\Proyectos Unity\HORROR PROJECT PROJECTS\Pete 2020 V1.4\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Symbol file LoadedFromMemory doesn't match image E:\Proyectos Unity\HORROR PROJECT PROJECTS\Pete 2020 V1.4\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for Escenario 1 prueba_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 prueba_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 prueba_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 prueba_LMA3 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Escenario 1 prueba_LMA4 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 prueba_LM0.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 prueba_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 prueba_LMA2.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 prueba_LMA3.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\Luqui\AppData\Local\Temp\frender" "uvpos_Escenario 1 prueba_LMA4.lz4" 2 0 4 0
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LM0" 4 0 0 comp_0.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LMA1" 4 0 1 comp_1.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LMA2" 4 0 2 comp_2.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LMA3" 4 0 3 comp_3.bin
+Running ftrace addmul "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LMA4" 4 0 4 comp_4.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LM0_diffuse" 4 16 0 "gi_Escenario 1 prueba_LM00.bin" "Escenario 1 prueba_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LMA1_diffuse" 4 16 1 "gi_Escenario 1 prueba_LMA10.bin" "Escenario 1 prueba_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LMA2_diffuse" 4 16 2 "gi_Escenario 1 prueba_LMA20.bin" "Escenario 1 prueba_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LMA3_diffuse" 4 16 3 "gi_Escenario 1 prueba_LMA30.bin" "Escenario 1 prueba_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LMA4_diffuse" 4 16 4 "gi_Escenario 1 prueba_LMA40.bin" "Escenario 1 prueba_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LM0_diffuse" 4 16 0 "gi_Escenario 1 prueba_LM01.bin" "Escenario 1 prueba_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LMA1_diffuse" 4 16 1 "gi_Escenario 1 prueba_LMA11.bin" "Escenario 1 prueba_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LMA2_diffuse" 4 16 2 "gi_Escenario 1 prueba_LMA21.bin" "Escenario 1 prueba_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LMA3_diffuse" 4 16 3 "gi_Escenario 1 prueba_LMA31.bin" "Escenario 1 prueba_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LMA4_diffuse" 4 16 4 "gi_Escenario 1 prueba_LMA41.bin" "Escenario 1 prueba_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LM0_diffuse" 4 16 0 "gi_Escenario 1 prueba_LM02.bin" "Escenario 1 prueba_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LMA1_diffuse" 4 16 1 "gi_Escenario 1 prueba_LMA12.bin" "Escenario 1 prueba_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LMA2_diffuse" 4 16 2 "gi_Escenario 1 prueba_LMA22.bin" "Escenario 1 prueba_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LMA3_diffuse" 4 16 3 "gi_Escenario 1 prueba_LMA32.bin" "Escenario 1 prueba_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LMA4_diffuse" 4 16 4 "gi_Escenario 1 prueba_LMA42.bin" "Escenario 1 prueba_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LM0_diffuse" 4 16 0 "gi_Escenario 1 prueba_LM03.bin" "Escenario 1 prueba_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LMA1_diffuse" 4 16 1 "gi_Escenario 1 prueba_LMA13.bin" "Escenario 1 prueba_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LMA2_diffuse" 4 16 2 "gi_Escenario 1 prueba_LMA23.bin" "Escenario 1 prueba_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LMA3_diffuse" 4 16 3 "gi_Escenario 1 prueba_LMA33.bin" "Escenario 1 prueba_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LMA4_diffuse" 4 16 4 "gi_Escenario 1 prueba_LMA43.bin" "Escenario 1 prueba_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LM0_final" 4 16 0 "gi_Escenario 1 prueba_LM04.bin" "Escenario 1 prueba_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LMA1_final" 4 16 1 "gi_Escenario 1 prueba_LMA14.bin" "Escenario 1 prueba_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LMA2_final" 4 16 2 "gi_Escenario 1 prueba_LMA24.bin" "Escenario 1 prueba_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LMA3_final" 4 16 3 "gi_Escenario 1 prueba_LMA34.bin" "Escenario 1 prueba_LMA3_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\Luqui\AppData\Local\Temp\frender" "Escenario 1 prueba_LMA4_final" 4 16 4 "gi_Escenario 1 prueba_LMA44.bin" "Escenario 1 prueba_LMA4_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 prueba_LM0_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 prueba_LM0_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "0" "Escenario 1 prueba_LM0_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 prueba_LMA1_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 prueba_LMA1_final_HDR.lz4" 512 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "1" "Escenario 1 prueba_LMA1_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 prueba_LMA2_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 prueba_LMA2_final_HDR.lz4" 512 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "2" "Escenario 1 prueba_LMA2_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 prueba_LMA3_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 prueba_LMA3_final_HDR.lz4" 256 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "3" "Escenario 1 prueba_LMA3_final_HDR.lz4"
+Running denoiser "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 prueba_LMA4_final_HDR.lz4" "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 prueba_LMA4_final_HDR.lz4" 128 0
+Running seamfixer "C:\Users\Luqui\AppData\Local\Temp\frender" "4" "Escenario 1 prueba_LMA4_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 prueba_LM0_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 prueba_LM0_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 prueba_LMA1_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 prueba_LMA1_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 prueba_LMA2_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 prueba_LMA2_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 prueba_LMA3_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 prueba_LMA3_final.hdr"
+Running halffloat2hdr "C:\Users\Luqui\AppData\Local\Temp\frender/Escenario 1 prueba_LMA4_final_HDR.lz4" "E:/Proyectos Unity/HORROR PROJECT PROJECTS/Pete 2020 V1.4/Assets/BakeryLightmaps/Escenario 1 prueba_LMA4_final.hdr"
+Symbol file LoadedFromMemory doesn't match image E:\Proyectos Unity\HORROR PROJECT PROJECTS\Pete 2020 V1.4\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds
+Failed to free the context in 1000 milli seconds

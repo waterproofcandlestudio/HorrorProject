@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc88bec865cea1147860a03afdfb2cfa, type: 3}
+  m_Name: LockPickBaseSO
+  m_EditorClassIdentifier: 
+  nameItem: LockPick
+  id: 1
+  information: You can use it for opening doors and Safe Deposit boxes.
+  type: 3
+  icon: {fileID: 0}
+  itemMesh: {fileID: 1895089083881493767, guid: f359ac1c233b108448ef3e6898742be9, type: 3}

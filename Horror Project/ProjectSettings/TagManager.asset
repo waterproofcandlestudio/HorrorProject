@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mira
+  - Light
+  - PanelBackGround
+  - Slot
+  - Lantern
+  - ManagerLantern
+  - ObjectViewer
+  - GameManager
+  - ManagerDescription
+  - Options
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Interactable Object
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Camera_Effect
+    uniqueID: 2668876133
+    locked: 0

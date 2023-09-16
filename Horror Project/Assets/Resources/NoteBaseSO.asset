@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc73f3cef577a4b4fb03d3e9250741d9, type: 3}
+  m_Name: NoteBaseSO
+  m_EditorClassIdentifier: 
+  nameItem: Note
+  id: 1
+  information: Tells something.
+  type: 2
+  icon: {fileID: 21300000, guid: 55af089a547a4b74bbb7841b8a533bd9, type: 3}
+  itemMesh: {fileID: 2700627783188025587, guid: bcdbe9c9a58d6974f9d8f81130d14e4c, type: 3}
